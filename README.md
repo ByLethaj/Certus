@@ -1,4 +1,4 @@
-DER CLIENT IST NOCH NICHT RELEASED! 
+[DER CLIENT IST NOCH NICHT RELEASED!] 
 1. Config auswählen
 2. In der Datei auf RAW klicken
 3. den Link oben kopieren
